@@ -17,7 +17,7 @@ void loop() {
       int b = random(0, 255);
   }
 
-  //platground board makes sound when moved
+  //playground board makes sound when moved
   float x = CircuitPlayground.motionX();
   float y = CircuitPlayground.motionY();
   float z = CircuitPlayground.motionZ();
