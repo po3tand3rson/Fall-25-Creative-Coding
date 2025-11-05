@@ -1,7 +1,3 @@
-// SPDX-FileCopyrightText: 2017 Limor Fried for Adafruit Industries
-//
-// SPDX-License-Identifier: MIT
-
 #include <Adafruit_CircuitPlayground.h>
 
 void setup() {
